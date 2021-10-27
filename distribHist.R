@@ -7,3 +7,4 @@ distribHist <- function(n, distrib) {
 distribHist(10, "n")
 distribHist(10, "un")
 distribHist(1000, "uniform")
+distribHist(1000, "uniformal")
