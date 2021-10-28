@@ -4,7 +4,5 @@ distribHist <- function(n, distrib) {
   hist(dat)
 }
 
-distribHist(10, "n")
-distribHist(10, "un")
+distribHist(1000, "normal")
 distribHist(1000, "uniform")
-distribHist(1000, "uniformal")
